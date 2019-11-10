@@ -54,7 +54,7 @@ git clone SSH-адрес_вашего_форка
 
 Репозиторий создан для обучения на профессиональном онлайн‑курсе «[HTML и CSS, уровень 2](https://htmlacademy.ru/intensive/adaptive)» от [HTML Academy](https://htmlacademy.ru).
 
-[travis-image]: https://travis-ci.com/neocortex-web/cat-energy.svg?branch=master
+[travis-image]: https://api.travis-ci.com/neocortex-web/cat-energy.svg?branch=master
 [travis-url]: https://travis-ci.com/neocortex-web/cat-energy
 [dependency-image]: https://david-dm.org/neocortex-web/cat-energy/dev-status.svg?style=flat-square
 [dependency-url]: https://david-dm.org/neocortex-web/cat-energy?type=dev

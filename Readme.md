@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Роман Смирнов](https://github.com/smirnovrm).
-* Наставник: [Без наставника].
+* Наставник: [Не выбран].
 
 ---
 
